@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="title_age_calculator">Age Calculator</string>
+    <string name="subtitle_age_calculator">Find your exact age in years, months, and days</string>
+    <string name="select_birth_date">Select Birth Date</string>
+    <string name="change_birth_date">Change Date</string>
+    <string name="calculate_age">Calculate Age</string>
+    <string name="clear">Clear</string>
+    <string name="birth_date_label">Date of Birth</string>
+    <string name="today_date_label">Today\'s Date</string>
+    <string name="your_age_title">Your Exact Age</string>
+    <string name="years_label">Years</string>
+    <string name="months_label">Months</string>
+    <string name="days_label">Days</string>
+    <string name="next_birthday_title">Next Birthday</string>
+    <string name="total_summary_title">Life Statistics</string>
+    <string name="total_days">Total Days</string>
+    <string name="total_weeks">Total Weeks</string>
+    <string name="total_hours">Total Hours</string>
+    <string name="select_date_prompt">Tap to select your date of birth</string>
+    <string name="future_date_error">Birth date cannot be in the future</string>
+    <string name="share_age_button">Share</string>
+    <string name="share_age_title">Share Age Results</string>
+    <string name="days_remaining_to_birthday">%1$d days remaining</string>
+    <string name="birthday_today">Happy Birthday today! 🎉🎂</string>
+</resources>
